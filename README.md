@@ -1,1 +1,1 @@
-This project is folks can share their image snad other usrs can rate their images
+This project is where folks can share their image and other users can rate their images
